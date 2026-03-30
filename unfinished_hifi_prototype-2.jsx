@@ -371,7 +371,7 @@ function App() {
   }, [tab]);
 
   return (
-    <div className="min-h-screen bg-[radial-gradient(circle_at_top,#EAEFFF,white_45%,#EFF2F6)] p-8">
+    <div className="min-h-screen bg-slate-50 p-8">
       <div className="mx-auto mb-8 max-w-5xl text-center">
         <h1 className="text-3xl font-semibold tracking-tight text-slate-900">Unfinished</h1>
         <p className="mt-2 text-sm text-slate-600">High-fidelity mobile prototype for keeping incomplete event tasks visible, assignable, and recoverable.</p>
